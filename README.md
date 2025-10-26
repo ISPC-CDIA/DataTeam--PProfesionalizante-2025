@@ -23,6 +23,7 @@ Documentos enlazados
 
 - [Excel](https://drive.google.com/drive/folders/1OgGSPrqqW6SodtSh7qkcEyglfyRtb7rP?usp=drive_link)
 - [Video](https://drive.google.com/file/d/18yu2gJTqBtwVDFFFPtks-0g-SnUVGUiL/view?usp=sharing)
+- [ChatGPT](https://chatgpt.com/g/g-68e6579ead948191aee7850773d26c5a-analisis-de-visitas-pepsico)
 
 ### ABP
 
