@@ -1,5 +1,16 @@
 ## Práctica Profesionalizante I - CDIA
+### Grupo DataTeam
+Este repositorio almacena todas las evidencias y puesta en práctica para los trabajos evaluativos de la asignatura de Práctica Profesionalizante I.
 
+Integrantes Estudiantes de TSCSIA, cohorte 2024
+
+Guillén Jonathan
+Majzum Maia
+Oviedo Francisco
+Palomeque Jonathan Manuel
+Pich Valentina
+Eglimar Ramírez
+Documentos enlazados
 
 ## ACCESOS A LINKS DE DOCUMENTOS
 
